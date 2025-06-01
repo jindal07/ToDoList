@@ -18,6 +18,8 @@ Make sure you have the following installed:
 2. Node.js (if using a JS/React project) 
 3. Package Manager – Usually npm or yarn(npm preffered)
 
+# Steps to run locally
+
 Step 1: Clone the Repository:
 1. git clone https://github.com/your-username/your-repo-name.git
 2. cd your-repo-name
