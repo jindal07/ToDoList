@@ -19,8 +19,8 @@ Make sure you have the following installed:
 3. Package Manager – Usually npm or yarn(npm preffered)
 
 Step 1: Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+1. git clone https://github.com/your-username/your-repo-name.git
+2. cd your-repo-name
 
 Step 2: Install Dependencies:
 npm install
