@@ -24,7 +24,7 @@ cd your-repo-name
 
 Step 2: Install Dependencies:
 npm install
-# or
+or
 yarn install
 
 Step 3: Run the Project Locally:
